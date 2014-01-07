@@ -1,0 +1,9 @@
+The mv command means 'move'. 
+
+i can use it to mv a file to another folder 
+
+$ mv file1 ./Desktop
+
+or use it to change the name of a file and move it 
+
+$ mv file1 file2
